@@ -9,7 +9,7 @@ import java.nio.file.Paths;
 
 
 //Student code from a prior semester - used to demo Checkstyle
-public class CheckstyleDemoFBB {
+public class RefactoringDemoFBB {
 
         public static void main(String args[]) throws FileNotFoundException, IOException {
                 
